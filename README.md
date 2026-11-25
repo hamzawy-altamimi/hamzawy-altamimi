@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi, I'm Hamzawy Al-Tamimi 👋
 
-<!--
-**hamzawy-altamimi/hamzawy-altamimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer | IT Student
 
-Here are some ideas to get you started:
+I'm an IT student and web developer interested in building practical web applications and software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, improving my programming skills, and turning ideas into useful digital products.
+
+💻 Technical Skills
+
+Technology| Current Level
+HTML| Good
+CSS| Good
+JavaScript| Good
+PHP| Good
+MySQL| Good
+
+🚀 Projects
+
+Hamzawy Plus
+
+A web-based store and inventory management system.
+
+- Product and inventory management
+- Sales and purchase management
+- Invoices and user permissions
+- Built using PHP and MySQL
+
+Ageer – Work Permit Management System
+
+A public repository for a work permit management system.
+
+🌱 Currently
+
+- Studying Information Technology.
+- Improving my web development skills.
+- Exploring software development and modern technologies.
+- Building practical projects and expanding my portfolio.
+
+🤝 Connect With Me
+
+- LinkedIn: "LinkedIn Profile" (https://www.linkedin.com/in/hamzawy-al-tamimi-54b0b444a/)
+- GitHub: "GitHub Profile" (https://github.com/hamzawy-altamimi)
+- WhatsApp: "Contact Me" (https://wa.me/967736783850)
+- Email: altmymyhmzt842@gmail.com
+
+---
+
+Building Ideas. Creating Solutions.
